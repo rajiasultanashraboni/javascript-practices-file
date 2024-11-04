@@ -24,3 +24,10 @@ var isRich = true;
 var passed = false;
 
 console.log(typeof isRich);
+
+
+
+var mu current home address = "andar killa bandarban"
+var mu_current_home_address = "andar killa bandarban" //snake case
+var muCurrentHomeAddress = "andar killa bandarban" //Camel Case
+var MyCurrentHomeAddress = "andar killa bandarban" // pascal case
