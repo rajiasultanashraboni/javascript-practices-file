@@ -8,7 +8,12 @@ const height = 61;
 //   console.log("onno patro khujte hobe");
 // }
 
-if (salary > 25000 || height > 72) {
+// if (salary > 25000 || height > 72) {
+//   console.log("esho baba kobul");
+// } else {
+//   console.log("vag tui mokbul");
+// }
+if (salary > 25000 || height > 72 || isBcs == true) {
   console.log("esho baba kobul");
 } else {
   console.log("vag tui mokbul");
