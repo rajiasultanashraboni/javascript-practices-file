@@ -4,3 +4,10 @@ if (weight < 20) {
 } else {
   console.log("noito gari diye niye ashte hobe");
 }
+
+var money = 500;
+if (money < 300) {
+  console.log("go to cinaplex");
+} else {
+  console.log("got to street");
+}
